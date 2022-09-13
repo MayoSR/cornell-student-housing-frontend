@@ -17,10 +17,10 @@ Develop a website that provides people with a platform to advertise or identify 
 * Ithaca sublessors (includes Cornell University students)
 * Ithaca sublessees (includes Cornell University students)
 
-### Risks and assumptions
-* Cornell student information is kept confidential (only netID, repuation and reviews are visible)
+### Risks and Assumptions
+* Cornell student information is kept confidential (only netID, reputation and reviews are visible)
 * Explicit content could be posted.
 * Fake listings can surface.
-* Inter-personal relations between subleassor and subleasee could pose risks
+* Interpersonal relations between sublessor and sublesee could pose risks
 
 
